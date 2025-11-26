@@ -37,5 +37,5 @@ public static void main(String[] args) { // Main method where program execution 
         System.out.print(arr[i] + " "); // Print each element followed by a space
     }
     System.out.println(); // Print a newline to end the output properly
-}
+    }
 }
